@@ -13,7 +13,7 @@ Env tested on -
 ## Running the script
 
 ```cmd
-puthon3 gui.py
+python3 gui.py
 ```
 
 And this is how the application will look like - 
