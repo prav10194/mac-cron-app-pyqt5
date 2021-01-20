@@ -1,4 +1,12 @@
-# mac-cron-app-pyqt5
+# Cron Job UI
+
+A simple interface to create a cronjob easily. More like a starter project for me to get used to PyQt. 
+
+Env tested on - 
+
+* Mac 11.1
+* Python 3.9.1
+* pyQt5
 
 ## Setting up pyqt for Mac
 
